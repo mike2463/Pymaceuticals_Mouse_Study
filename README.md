@@ -1,1 +1,2 @@
 # Pymaceuticals_Mouse_Study
+Pymaceuticals contains the data folder which houses the data that was then analyzed in the pymaceuticals_starter file. Within this file I import the two data sets, merge them and then clean them. From there I break the data in a  statistical analysis and then visualize the this analysis.  
